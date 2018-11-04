@@ -1,0 +1,5 @@
+org/satabdi/javaResttutorial/StudentService/dao/StudentDAO.class
+org/satabdi/javaResttutorial/Student/Student.class
+org/satabdi/javaResttutorial/StudentService/service/StudentService.class
+org/satabdi/javaResttutorial/StudentService/controller/StudentController.class
+org/satabdi/javaResttutorial/StudentService/RestfulWebServicesApplication.class
