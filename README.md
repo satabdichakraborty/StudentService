@@ -1,2 +1,2 @@
 # StudentService
-StudentService for Anhular 6 UI
+StudentService for Angular 6 UI
